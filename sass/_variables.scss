@@ -1,0 +1,46 @@
+$color-bg:  rgba(0, 0, 0, 0.9);
+
+
+
+// CSS3 defaults
+// *-------------------------------------------------------------------------------
+// $default-box-sizing: border-box;
+
+
+/////// Typography configuration
+// *-------------------------------------------------------------------------------
+$font-size: 12;
+
+$heading-1: 46;
+$heading-2: 32;
+$heading-3: 28;
+$heading-4: 18;
+$heading-5: 18;
+$heading-6: 18;
+
+$line: $font-size * 1.5;
+$small-point-size: 10;
+$large-point-size: 14;
+
+$primary-font-family: #{"Helvetica Neue", Arial, sans-serif};
+$secondary-font-family: #{"Helvetica Neue", Arial, sans-serif};
+$heading-font-family: #{"Helvetica Neue", Arial, sans-serif};
+
+
+/////// Default webfont directory
+// *-------------------------------------------------------------------------------
+$fontDir: "fonts/";
+
+/////// Default image directory
+// *-------------------------------------------------------------------------------
+$imgDir: "images/";
+
+/////// @media breakpoint defaults
+// *-------------------------------------------------------------------------------
+$tablet:                    "screen and (max-width: 64em)";
+$tablet-portrait:           "screen and (max-width: 50em) and (orientation: portrait)";
+$tablet-landscape:          "screen and (max-width: 50em) and (orientation: landscape)";
+
+$mobile:                    "screen and (max-width: 30em)";
+$mobile-portrait:           "screen and (max-width: 30em) and (orientation : portrait)";
+$mobile-landscape:          "screen and (max-width: 30em) and (orientation : landscape)";
