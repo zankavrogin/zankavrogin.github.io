@@ -34,7 +34,4 @@ helpers do
     properties
   end
 
-  def copyright_years
-    "2010 - #{Date.today.year}"
-  end
 end
