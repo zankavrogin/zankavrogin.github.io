@@ -393,7 +393,7 @@ body {
     clear: both; }
 
 /* line 21, /home/nathan/Documents/Github/zankavrogin.github.io/source/stylesheets/syle.css.scss */
-.container {
+.container {}
   /* line 38, /var/lib/gems/1.9.1/gems/neat-1.5.1/app/assets/stylesheets/grid/_span-columns.scss */
   .container:last-child {
     margin-right: 0; }
