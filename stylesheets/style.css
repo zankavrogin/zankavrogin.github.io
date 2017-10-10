@@ -394,21 +394,17 @@ body {
 
 /* line 21, /home/nathan/Documents/Github/zankavrogin.github.io/source/stylesheets/syle.css.scss */
 .container {
-  float: left;
-  display: block;
-  margin-right: 2.35765%;
-  background-color: rgba(13, 13, 13, 0.9); }
   /* line 38, /var/lib/gems/1.9.1/gems/neat-1.5.1/app/assets/stylesheets/grid/_span-columns.scss */
   .container:last-child {
     margin-right: 0; }
 
 /* line 28, /home/nathan/Documents/Github/zankavrogin.github.io/source/stylesheets/syle.css.scss */
 .content {
-  position: relative;
+    position: relative;
     padding-bottom: 56.25%;
     padding-top: 35px;
-    height: 0;
-    overflow: hidden; }
+    float: left;
+    width: 100%; }
   /* line 38, /var/lib/gems/1.9.1/gems/neat-1.5.1/app/assets/stylesheets/grid/_span-columns.scss */
   .content:last-child {
     margin-right: 0; }
