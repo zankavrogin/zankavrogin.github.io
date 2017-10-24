@@ -440,7 +440,6 @@ article {
   width: 100%;
   background: url("../images/kirilov.png") 0 0% no-repeat;
   background-size: 100%;
-  background-color: rgba(26, 26, 26, 0.9);
   height: 500px; }
   /* line 38, /var/lib/gems/1.9.1/gems/neat-1.5.1/app/assets/stylesheets/grid/_span-columns.scss */
   article:last-child {
